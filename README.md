@@ -3,6 +3,6 @@
 https://kr-nkit.github.io/natours/
 
 A website designed to book adventurous nature tools.
-It's built on HTML5 & pure CSS.
+It's built on PHP, HTML5 & pure CSS.
 
 Payment options : PayPal
