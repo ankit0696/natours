@@ -1,4 +1,4 @@
-# <a href="https://kr-nkit.github.io/natours/">Natours</a>
+# <a href="https://ankit0696.github.io/natours/">Natours</a>
 
 https://kr-nkit.github.io/natours/
 
